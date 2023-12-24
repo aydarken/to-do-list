@@ -1,0 +1,13 @@
+com\phonixlab\todolist\entities\TaskEntity$TaskEntityBuilder.class
+com\phonixlab\todolist\config\JwtTokenFilter.class
+com\phonixlab\todolist\controllers\TaskController.class
+com\phonixlab\todolist\config\SecurityConfig.class
+com\phonixlab\todolist\services\impl\TaskServiceImpl.class
+com\phonixlab\todolist\model\Status.class
+com\phonixlab\todolist\model\Task.class
+com\phonixlab\todolist\repositories\TaskRepository.class
+com\phonixlab\todolist\model\Task$TaskBuilder.class
+com\phonixlab\todolist\config\JwtTokenProvider.class
+com\phonixlab\todolist\services\TaskService.class
+com\phonixlab\todolist\ToDoListApplication.class
+com\phonixlab\todolist\entities\TaskEntity.class
